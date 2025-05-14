@@ -6,3 +6,6 @@
 - Create an API integrate with the above created Lambda.
 - Send the request to API you will see JSON Response
 - Send a request api you will see the JSON response.
+
+
+Note: To better understand the code watch the youtube video explain this code link https://youtu.be/-F4eqEmMiJw?feature=shared
